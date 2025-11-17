@@ -64,11 +64,8 @@ ylabel('Cumulative Energy (kWh)');
 title('Total Energy Consumption Over Time');
 grid on;
 ```
-
 ## MATLAB OUTPUT
 <img width="769" height="693" alt="image" src="https://github.com/user-attachments/assets/3e74c1ab-7adc-46f7-a015-4645466e85a9" />
-
-
 
 ## CONCLUSION
 This experiment demonstrated an embedded MATLAB system for analyzing EV energy consumption. It helps optimize battery usage and improve vehicle efficiency.
