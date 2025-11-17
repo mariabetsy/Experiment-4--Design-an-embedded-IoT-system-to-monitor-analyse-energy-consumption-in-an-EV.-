@@ -73,7 +73,6 @@ ylabel('Cumulative Energy (kWh)');
 title('Total Energy Consumption Over Time');
 grid on;
 ```
-
 ## MATLAB OUTPUT
 <img width="769" height="693" alt="image" src="https://github.com/user-attachments/assets/3e74c1ab-7adc-46f7-a015-4645466e85a9" />
 
